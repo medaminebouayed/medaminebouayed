@@ -111,14 +111,12 @@ I’m a passionate **Software Engineer** with strong experience in:
 
 ## 📊 GitHub Stats
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your real GitHub username
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medaminebouayed&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebouayed&theme=radical" />
 </p>
 
 ---
