@@ -86,7 +86,7 @@ I’m a passionate **Software Engineer** with strong experience in:
 ---
 
 ### 🔹 **Full-Stack Projects**
-- ⚖️ **Lawyer Work Management System** (Laravel + React)  
+- ⚖️ **Lawyer Work Management System (Laravel) **
 - 🏫 **Sfax University Management System** *(Summer Internship)*  
 - 🌐 **Multi-role web platforms with REST APIs & authentication**  
 
