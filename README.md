@@ -25,7 +25,7 @@ I’m a passionate **Software Engineer** with strong experience in:
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,c,cs,cpp,bash" />
 </p>
 
 ### **AI / ML**
