@@ -144,7 +144,7 @@ Strong experience in:
 ---
 
 ## 🎓 Experience
-- ** 💼 Platana — AI & Full-Stack Developer (Summer Internship, 2026) **
+-  **💼 Platana — AI & Full-Stack Developer (Summer Internship, 2026)**
   - Built an industrial ML decision-support engine grading returned electronics from multi-angle photos, estimating resale price and refurbishment cost, and recommending a disposition (resale, refurbishment, or recycling). Stack: Python, FastAPI, PyTorch/ONNX, XGBoost, MLflow, Docker. 
 - **💼 DK Soft — Full-Stack Developer (Summer Internship, 2025)**
   - Built a university mobility management platform with React.js, Laravel, and MySQL.
