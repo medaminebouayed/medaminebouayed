@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Final-year engineering student in Software Engineering & Business Intelligence at the International Institute of Technology (IIT) Sfax, specializing in **Machine Learning**, **agentic AI**, and **full-stack development**. Across my academic and professional projects, I have built classical ML and deep learning pipelines, LLM-based agentic systems, and end-to-end web and mobile applications in Python and TypeScript. Looking for a 4–6 month internship in Europe starting early 2027.
+Final-year engineering student in Software Engineering & Business Intelligence at the International Institute of Technology (IIT) Sfax, specializing in **Machine Learning**, **agentic AI**, and **full-stack development**. Across my academic and professional projects, I have built classical ML and deep learning pipelines, LLM-based agentic systems, and end-to-end web and mobile applications in Python and TypeScript. Looking for a 4–6 month internship starting early 2027.
 
 Strong experience in:
 
@@ -144,7 +144,8 @@ Strong experience in:
 ---
 
 ## 🎓 Experience
-
+- ** 💼 Platana — AI & Full-Stack Developer (Summer Internship, 2026) **
+  - Built an industrial ML decision-support engine grading returned electronics from multi-angle photos, estimating resale price and refurbishment cost, and recommending a disposition (resale, refurbishment, or recycling). Stack: Python, FastAPI, PyTorch/ONNX, XGBoost, MLflow, Docker. 
 - **💼 DK Soft — Full-Stack Developer (Summer Internship, 2025)**
   - Built a university mobility management platform with React.js, Laravel, and MySQL.
 - **💼 SMDI Tunisie — Full-Stack Developer (2023–2024)**
