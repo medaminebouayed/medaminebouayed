@@ -5,7 +5,7 @@
   <a href="mailto:medaminebouayed@iit.ens.tn">📧 Email</a> •
   <a href="https://www.linkedin.com/in/medaminebouayed">🔗 LinkedIn</a> •
   <a href="https://github.com/medaminebouayed">💻 GitHub</a> •
-  <a href="https://medaminebouayed.github.io">🌐 Portfolio</a>
+  <a href="[https://medaminebouayed.github.io](https://medaminebouayed.github.io/portfolio/)">🌐 Portfolio</a>
 </p>
 
 ---
@@ -195,6 +195,6 @@ Strong experience in:
 📩 **Email:** medaminebouayed@iit.ens.tn
 🔗 **LinkedIn:** https://www.linkedin.com/in/medaminebouayed
 💻 **GitHub:** https://github.com/medaminebouayed
-🌐 **Portfolio:** https://medaminebouayed.github.io
+🌐 **Portfolio:** [https://medaminebouayed.github.io](https://medaminebouayed.github.io/portfolio/)
 
 ---
