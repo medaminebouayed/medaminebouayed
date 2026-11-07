@@ -33,68 +33,130 @@ Strong experience in:
 </p>
 
 ### **Agentic AI & LLMs**
-- **Frameworks:** LangGraph, LangChain
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
 - **Patterns:** Retrieval-Augmented Generation (RAG), Prompt Engineering, Structured Output / Function Calling, Tool-Use Patterns
-- **Models:** Open-source LLMs, Whisper, Embeddings, FAISS, Vector Databases
+- **Models:** Open-source LLMs, Whisper, Embeddings, Vector Databases
 
 ### **Machine Learning & Deep Learning**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-025E8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-4169E1?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-- **Classical ML:** Scikit-Learn, XGBoost, LightGBM, CatBoost
-- **Deep Learning:** PyTorch, TensorFlow, Keras
-- **Tooling:** MLflow, SHAP, Optuna
-- **Data:** NumPy, Pandas, Scikit-Learn, OpenCV
+- **Data Processing & Analytics:** NumPy, Pandas, OpenCV, SHAP
 
 ### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,react,angular,nextjs,tailwind" />
 </p>
-
-**Additional:** Blazor, Laravel Blade, TypeScript
+<p>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ### **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel,spring,dotnet" />
 </p>
-
-**Additional:** Jakarta EE (JEE), REST API, SOAP, gRPC, JWT, Laravel Sanctum
+<p>
+  <img src="https://img.shields.io/badge/Jakarta_EE-00739C?style=for-the-badge&logo=jakartaee&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
 ### **Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
-### **Databases**
+### **Databases & Vector Stores**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
 </p>
-
-**Additional:** Neo4j, Oracle Database, SQL Server, pgvector, FAISS, Chroma
-
-### **Cloud (AWS)**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Compute:** EC2, Lambda, ECS, EKS, Fargate, Elastic Beanstalk
-**Storage:** S3, EBS, EFS, S3 Glacier, Snow Family
-**Networking:** VPC, Subnets, Route 53, CloudFront, API Gateway, ELB (ALB/NLB)
-**Databases:** DynamoDB, RDS, Aurora, ElastiCache, Redshift
-**Integration:** SNS, EventBridge, Kinesis, Step Functions
-**Management:** CloudWatch, CloudTrail, CloudFormation, Systems Manager, Trusted Advisor, Organizations
-**Security:** IAM, KMS, Secrets Manager, WAF & Shield, Certificate Manager
-**Analytics & AI:** Athena, QuickSight, Bedrock, SageMaker
-**Migration:** DMS
+### **Cloud (AWS Services)**
+
+#### **Compute & Serverless**
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### **Storage & Content Delivery**
+<p>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3_Glacier-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### **Networking & Security**
+<p>
+  <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_API_Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### **Databases & Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Aurora-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_ElastiCache-C7254E?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### **AI, ML & Management**
+<p>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ### **DevOps & Testing**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github" />
 </p>
-
-**Additional:** Traefik, CI/CD basics
-**Testing:** Pytest, xUnit, Postman, Selenium, Playwright, SonarQube
+<p>
+  <img src="https://img.shields.io/badge/Traefik-24A1DE?style=for-the-badge&logo=traefik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
 
 ### **Data Engineering & BI**
 - ETL, Data Warehousing, OLAP, Star Schema, Dashboards, Hadoop, Spark
@@ -144,7 +206,7 @@ Strong experience in:
 ---
 
 ## 🎓 Experience
--  **💼 Platana — AI & Full-Stack Developer (Summer Internship, 2026)**
+- **💼 Platana — AI & Full-Stack Developer (Summer Internship, 2026)**
   - Built an industrial ML decision-support engine grading returned electronics from multi-angle photos, estimating resale price and refurbishment cost, and recommending a disposition (resale, refurbishment, or recycling). Stack: Python, FastAPI, PyTorch/ONNX, XGBoost, MLflow, Docker. 
 - **💼 DK Soft — Full-Stack Developer (Summer Internship, 2025)**
   - Built a university mobility management platform with React.js, Laravel, and MySQL.
@@ -192,9 +254,7 @@ Strong experience in:
 
 ## 🤝 Let's Connect!
 
-📩 **Email:** medaminebouayed@iit.ens.tn
-🔗 **LinkedIn:** https://www.linkedin.com/in/medaminebouayed
-💻 **GitHub:** https://github.com/medaminebouayed
+📩 **Email:** medaminebouayed@iit.ens.tn  
+🔗 **LinkedIn:** https://www.linkedin.com/in/medaminebouayed  
+💻 **GitHub:** https://github.com/medaminebouayed  
 🌐 **Portfolio:** https://medaminebouayed.github.io/portfolio/
-
----
