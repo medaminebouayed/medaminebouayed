@@ -164,12 +164,17 @@ Strong experience in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medaminebouayed&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=medaminebouayed&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=medaminebouayed&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=medaminebouayed&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ---
